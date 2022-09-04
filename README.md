@@ -16,8 +16,8 @@ Generate ruts with format - cross platform
 [npm-version-src]: https://img.shields.io/npm/v/@rsgarate/grut-cli?style=flat-square
 [npm-version-href]: https://npmjs.com/package/@rsgarate/grut-cli
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/@grut-cli?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/@grut-cli
+[npm-downloads-src]: https://img.shields.io/npm/dm/@rsgarate/grut-cli?style=flat-square
+[npm-downloads-href]: https://npmjs.com/package/@rsgarate/grut-cli
 
 [github-actions-src]: https://img.shields.io/github/workflow/status/ramsesgarate/grut-cli/ci/main?style=flat-square
 [github-actions-href]: https://github.com/ramsesgarate/grut-cli/actions?query=workflow%3Aci
