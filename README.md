@@ -3,13 +3,15 @@
 Generate ruts with format - cross platform
 
 ## Badges
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
-
+[![js-standard-style][lint-standard-src]][lint-standard-href]
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![Github Actions][github-actions-src]][github-actions-href]
 [![Codecov][codecov-src]][codecov-href]
 
+
+[lint-standard-src]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
+[lint-standard-href]: http://standardjs.com
 
 [npm-version-src]: https://img.shields.io/npm/v/@grut-cli?style=flat-square
 [npm-version-href]: https://npmjs.com/package/@grut-cli
