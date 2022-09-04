@@ -13,8 +13,8 @@ Generate ruts with format - cross platform
 [lint-standard-src]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
 [lint-standard-href]: http://standardjs.com
 
-[npm-version-src]: https://img.shields.io/npm/v/@grut-cli?style=flat-square
-[npm-version-href]: https://npmjs.com/package/@grut-cli
+[npm-version-src]: https://img.shields.io/npm/v/@rsgarate/grut-cli?style=flat-square
+[npm-version-href]: https://npmjs.com/package/@rsgarate/grut-cli
 
 [npm-downloads-src]: https://img.shields.io/npm/dm/@grut-cli?style=flat-square
 [npm-downloads-href]: https://npmjs.com/package/@grut-cli
@@ -23,7 +23,7 @@ Generate ruts with format - cross platform
 [github-actions-href]: https://github.com/ramsesgarate/grut-cli/actions?query=workflow%3Aci
 
 [codecov-src]: https://img.shields.io/codecov/c/gh/ramsesgarate/grut-cli/main?style=flat-square
-[codecov-href]: https://codecov.io/gh/unjs/@grut-cli
+[codecov-href]: https://codecov.io/gh/ramsesgarate/grut-cli
 
 ## Installation
 
