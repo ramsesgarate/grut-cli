@@ -1,6 +1,6 @@
 {
   "name": "grut-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generate ruts with format - cross platform",
   "author": "'Ramses Garate <'rsgarate@gmail.com'>",
   "type": "module",
@@ -13,7 +13,12 @@
     "test": "pnpm lint && vitest run --coverage",
     "release": "pnpm lint && standard-version && git push --follow-tags && pnpm publish --access=public"
   },
-  "keywords": ["rut", "chile", "dni", "cli"],
+  "keywords": [
+    "rut",
+    "chile",
+    "dni",
+    "cli"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ramsesgarate/grut-cli.git"
