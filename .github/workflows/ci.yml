@@ -20,5 +20,7 @@ jobs:
           cache: "pnpm"
       - run: pnpm install
       - run: pnpm lint
+      - run: |
+          chmod -x grut-cli.js
       - run: pnpm vitest --coverage
       - uses: codecov/codecov-action@v3
