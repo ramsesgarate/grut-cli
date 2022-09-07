@@ -31,13 +31,13 @@ Install package:
 
 ```bash
 # npm
-npm install grut-cli
+npm install @rsgarate/grut-cli
 
 # yarn
-yarn install grut-cli
+yarn install @rsgarate/grut-cli
 
 # pnpm
-pnpm install grut-cli
+pnpm install @rsgarate/grut-cli
 ```
     
 ## Usage
@@ -60,10 +60,10 @@ $ grut --help
     $ grut
 
     Generate rut with format
-    $ grut --format
+    $ grut -f
 
     Validate rut
-    $ grut --is-valid=18.543.928-3
+    $ grut -v 18.543.928-3
 
 ```
 
