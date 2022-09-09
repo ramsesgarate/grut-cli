@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/ramsesgarate/grut-cli/compare/v0.0.1...v0.0.2) (2022-09-09)
+
+
+### Features
+
+* add messages for rut generated ([790218f](https://github.com/ramsesgarate/grut-cli/commit/790218fb0f2bb282484423a8c7af4a027f5cc65f))
+
 ### 0.0.1 (2022-09-04)
 
 
