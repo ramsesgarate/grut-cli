@@ -30,6 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "@rsgarate/rut": "0.1.2",
+    "chalk": "^5.0.1",
     "clipboardy": "3.0.0",
     "meow": "10.1.3"
   },
