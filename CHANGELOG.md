@@ -1,6 +1,31 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [v0.1.0](https://github.com/ramsesgarate/grut-cli/compare/v0.0.2...v0.1.0)
+
+
+### 🚀 Enhancements
+
+  - Add main file for cli (458e1a4)
+  - Add command validate (f0c93ec)
+  - Add command get-digit (d679eca)
+  - Add command generate (c7e5711)
+  - Add command format (eae5d19)
+  - Add command clean (cce327e)
+
+### 🩹 Fixes
+
+  - Delete old structure (23bef91)
+
+### 🏡 Chore
+
+  - Add pkg commander (90189aa)
+  - Add pkg commander (4d7088f)
+  - Delete github actions (a61f52d)
+
+### ❤️  Contributors
+
+- Ramses Garate
 
 ### [0.0.2](https://github.com/ramsesgarate/grut-cli/compare/v0.0.1...v0.0.2) (2022-09-09)
 
