@@ -11,7 +11,7 @@
     "dev": "node ./bin/rut.js",
     "lint": "eslint --ext .js",
     "test": "pnpm lint && vitest run --coverage",
-    "release": "pnpm lint && standard-version && git push --follow-tags && pnpm publish --access=public"
+    "release": "pnpm lint && git push --follow-tags && pnpm publish --access=public"
   },
   "keywords": [
     "rut",
