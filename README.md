@@ -43,38 +43,95 @@ pnpm install @rsgarate/grut-cli
 ## Usage
 
 ```
-$ grut --help
-  Usage
-    $ grut
-      
-    Options
-        --with-format, -f         Format a rut with dots and dash
-        --single-format, -s       Format a rut with dash only
-        --validate=<rut>, -v    Check if a rut is valid
-        --digit=<rut>, -d       Get the check digit
-        --clean=<rut>, -c       Returns a rut without format
+$ rut --help
 
-    Examples
-        
-    Generate rut without format
-    $ grut
+  Commands
 
-    Generate rut with format
-    $ grut -f
-
-    Validate rut
-    $ grut -v 18.543.928-3
-
+    validate, v      Check if a rut is valid
+    get-digit, gd    Get the check digit
+    format, f        Format rut
+    clean, c         Returns a rut without format
+    generate        Returns a rut without format
+    help  display help for command
 ```
 
+### Commands
 
-## Tip
+**Generate Rut**
 
-Run it with `$ r` instead by adding `alias r=grut` to your `.zshrc`/`.bashrc`.
+```
+  Usage
+    $ rut
+      
+    Options
+        -f         Generate rut with format
+        -s         Generate rut with single format, dash only
 
+  Examples
+        
+    Generate rut without format
+    $ rut
 
+    Generate rut with format
+    $ rut -f
 
+    Generate rut with single format
+    $ rut -s
+```
 
+**Format Rut**
+
+```
+  Usage
+    $ rut format <rut>
+      
+    Options
+        -s         Generate rut with single format, dash only
+
+  Examples
+
+    Generate rut with format
+    $ rut format <rut>
+
+    Generate rut with single format
+    $ rut format -s <rut>
+```
+
+**Validate Rut**
+
+```
+  Usage
+    $ rut validate <rut>
+
+  Examples
+
+    Validate rut
+    $ rut validate <rut>
+```
+
+**Clean Rut**
+
+```
+  Usage
+    $ rut clean <rut>
+
+  Examples
+
+    Clean rut
+    $ rut clean <rut>
+```
+
+**Get check digit**
+
+```
+  Usage
+    $ rut get-digit <rut>
+
+  Examples
+
+    Get check digit for
+    $ rut get-digit <rut>
+```
 
 ## Related
 
