@@ -1,5 +1,5 @@
 {
-  "name": "grut-cli",
+  "name": "@rsgarate/grut-cli",
   "version": "0.1.0",
   "description": "Generate ruts with format - cross platform",
   "author": "'Ramses Garate <'rsgarate@gmail.com'>",
