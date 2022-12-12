@@ -23,6 +23,11 @@
   - Add pkg commander (4d7088f)
   - Delete github actions (a61f52d)
 
+
+### 📖 Documentation
+
+  - Add documentation for all commands (b9516e7)
+
 ### ❤️  Contributors
 
 - Ramses Garate
